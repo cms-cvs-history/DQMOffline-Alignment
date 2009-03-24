@@ -5,5 +5,4 @@
 <use name=DataFormats/MuonReco>
 <use name=RecoMuon/TrackingTools>
 <use name=TrackingTools/TransientTrack>
-<use name=Alignment/LaserAlignment>
 <flags EDM_PLUGIN=1>
